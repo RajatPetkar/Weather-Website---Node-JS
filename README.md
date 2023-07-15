@@ -24,4 +24,4 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## Acknowledgements
 
-This project was created to provide an interactive and engaging quotes generator website for users. Special thanks to the developers and contributors who provided the quote API and resources for creating this website.
+This project was created to provide an interactive and engaging quotes generator website for users. Special thanks to the developers and contributors who provided the Weather API.
